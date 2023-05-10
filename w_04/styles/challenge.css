@@ -1,0 +1,47 @@
+body{
+    background-color: pink;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    margin: 0 auto;
+    font-size: 2em;
+    color: white;
+}
+nav a:hover{
+    color: black;
+}
+p{
+    text-align: center;
+}
+.quote{
+    color: white;
+    width: 35%;
+    margin: 20px auto;
+}
+ol{
+    width: 35%;
+    margin: 20px auto;
+}
+li{
+    margin: 0px auto;
+    font-size: 1.3em;
+}
+img{
+    width: 20%;
+    display: block;
+    margin: 0 auto;
+}
+#atonement{
+    font-size: 1.8em;
+    color: white;
+    width: 30%;
+    margin: 20px auto;
+}
+footer p{
+    width: 25%;
+    margin: 0 auto;
+}
+
