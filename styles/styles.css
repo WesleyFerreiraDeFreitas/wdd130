@@ -1,12 +1,19 @@
+body{
+    margin: 0;
+}
 nav, footer{
     text-align: center;
     color: white;
     background-color: steelblue;
     padding: 10px;
 }
+nav{
+    padding: 25px;
+}
 footer p{
     font-size: 20px;
     margin: 20px auto;
+    padding: 25px;
 }
 main p{
     width: 80%;
@@ -16,6 +23,7 @@ main p{
 a{
     color: white;
     margin: 40px;
+    padding: 25px;
 }
 a.byui_link{
     font-size: 1.5em;
@@ -24,6 +32,7 @@ a.byui_link{
 h1{
     color: steelblue;
     text-align: center;
+    margin: 50px 0;
 }
 img{
     width: 80%;

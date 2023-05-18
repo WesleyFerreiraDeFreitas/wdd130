@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+#banner{
+    width: 100%;
+    margin: 0;
+    height: 480px;
+}
+#conteiner{
+    background-color: gray;
+    text-align: center;
+    margin: 0;
+}
+.photos{
+    width: 10%;
+    border-radius: 50%;
+    margin: 40px 10%;
+    border: 10px solid rgb(61, 59, 59);
+}
