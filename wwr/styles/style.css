@@ -154,6 +154,9 @@ footer p a:hover {
 footer .social img{
     padding-top: 15px;
 }
+.social a img{
+    width: 80px;
+}
 .rivers-card, .camping-card, .rapids-card{
     margin: 200px 0;
 }
