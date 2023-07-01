@@ -1,5 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@1,700&family=Roboto:wght@300&display=swap');
 body{
     margin: 0;
+}
+h1{
+    font-family: "Roboto Condensed", Helvetica, sans-serif;
+}
+h2{
+    font-family: "Roboto Condensed", Helvetica, sans-serif;
+}
+p{
+    font-family: Robot, Helvetica, sans-serif;
 }
 nav{
     display: flex;
